@@ -9,7 +9,7 @@
 body {
     font-family: 'Muli', sans-serif;
     min-height: 100vh;
-    background-color: rgb(182, 177, 177);
+    background-image: url("bg.jpg");
     color: #40276b;
 }
 .container {
